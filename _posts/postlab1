@@ -25,6 +25,6 @@ def mode(a):
 
 lyst=[1,3,2,6,7,5,9,8,5,4]
 
-print(med(lyst))
 print(mean(lyst))
 print(mode(lyst))
+print(med(lyst))
